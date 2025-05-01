@@ -7,7 +7,7 @@ Project Description:
     are stored it in 'Predictions.csv'.	
 	
 .pdf files	
-	1) 'CAPSTONE PROJECT REPORT.pdf' contains a detailed report about this project
+	1) Document link contains a detailed report about this project: https://docs.google.com/document/d/1uMRyP2sA0xThCnAVd6_Sbaz9vI8OiCk49FkU5bwdy9w/
 	
 .py files	
 	1) 'PredictingBiologicalResponse.py' is the startup file for the project
